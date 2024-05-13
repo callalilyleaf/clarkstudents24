@@ -29,5 +29,5 @@ GRANT ALL ON film.* TO 'student'@'localhost';
 GRANT ALL ON university.* TO 'student'@'localhost';
 -- ~
 -- ~
-GRANT ALL ON university.* TO 'student'@'localhost';
+GRANT ALL ON art.* TO 'student'@'localhost';
 -- ~
